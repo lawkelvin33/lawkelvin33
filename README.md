@@ -9,4 +9,4 @@
 
 **Contact me 📫**
 
-<a href ="https://www.instagram.com/jrojects/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href ="https://www.instagram.com/lawkelvin1/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
