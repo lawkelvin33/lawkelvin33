@@ -9,5 +9,4 @@
 
 **Contact me 📫**
 
-<a href ="https://velog.io/@jaejuna"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
 <a href ="https://www.instagram.com/jrojects/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
