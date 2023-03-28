@@ -1,6 +1,5 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&theme=dracula&section=header&text=ChaeyoungHa&fontSize=60&fontAlign=75&fontAlignY=60)
+  <H2> Hi I'm Jakyung 🤗 </div>
   
   ### 📱 Contact Me 📱
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/채영-하-031048261/)](https://www.linkedin.com/in/채영-하-031048261/)
