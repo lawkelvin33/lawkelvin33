@@ -1,7 +1,7 @@
 <div align="left">
-  <h4>- 👋 Hi, I’m Jakyung Koo, I major in Computer Science at Korea University(Seoul)</h4>
-  <h4>- 👀 I’m interested in Backend and Smart Contract Development</h4>
-  <h4>- 🌱 I’m currently learning Web3 and web app development</h4>
+  <h4>👋 Hi, I’m Jakyung Koo, I major in Computer Science at Korea University(Seoul)</h4>
+  <h4>👀 I’m interested in Backend and Smart Contract Development</h4>
+  <h4>🌱 I’m currently learning Web3 and web app development</h4>
   
   ### 📱 Contact Me 📱
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/jakyung-‍koo-120478226/)](https://www.linkedin.com/in/jakyung-‍koo-120478226/)
