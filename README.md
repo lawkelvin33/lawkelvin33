@@ -65,7 +65,7 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 ## [Polygon DevX Global Tour APAC Hackathon](https://polygon.technology/devxglobaltour/hackathon)
 
-**🏆 Application Layer Track Winners**
+**🏆 Application Layer Track Winner**
 
 ## WiFi
 
