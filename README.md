@@ -3,8 +3,6 @@
   <h4>👀 I’m interested in Backend and Smart Contract Development</h4>
   <h4>🌱 I’m currently learning Web3 and web app development</h4>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lawkelvin33)](https://solved.ac/lawkelvin33)
-  
   ### 📱 Contact Me 📱
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/jakyung-‍koo-120478226/)](https://www.linkedin.com/in/jakyung-‍koo-120478226/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:lawkelvin33@gmail.com)](mailto:lawkelvin33@gmail.com)
@@ -73,3 +71,6 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lawkelvin33)](https://solved.ac/lawkelvin33)
+  
