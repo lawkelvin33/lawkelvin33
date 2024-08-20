@@ -1,7 +1,7 @@
 <div align="left">
   <h4>👋 Hi, I’m Kelvin Koo, I major in Computer Science at Korea University (Seoul)</h4>
   <h4>👀 Previously interested in Backend and Smart Contract Development</h4>
-  <h4>🌱 I’m the cofounder of Toaster Finance</h4>
+  <h4>🌱 I’m the cofounder of Toaster Finance.</h4>
   <h4>🌱 Currently, my focus is in node infrastructure & validating</h4>
 
 # 🏆️Award
